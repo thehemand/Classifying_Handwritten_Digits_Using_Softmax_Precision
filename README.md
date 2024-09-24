@@ -1,6 +1,6 @@
 # Classifying_Handwritten_Digits_Using_Softmax_Precision
 
-This project from the course Introduction to Computer Vision and Image Processing by IBM implements a Softmax classifier using PyTorch to classify handwritten digits from the MNIST dataset. The model is trained on the dataset and analyzed based on its accuracy and loss. Visualizations of model parameters and predictions are also included.
+This project from the course implements a Softmax classifier using PyTorch to classify handwritten digits from the MNIST dataset. The model is trained on the dataset and analyzed based on its accuracy and loss. Visualizations of model parameters and predictions are also included.
 
 # Objectives
 
